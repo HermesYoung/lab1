@@ -1,0 +1,11 @@
+Script started on 2016年03月02日 (週三) 16時14分37秒
+]0;F74049038@2015cpp: ~[01;32mF74049038@2015cpp[00m:[01;34m~[00m$ whoami; pwd
+F74049038
+/home/F74049038
+]0;F74049038@2015cpp: ~[01;32mF74049038@2015cpp[00m:[01;34m~[00m$ git config -l
+]0;F74049038@2015cpp: ~[01;32mF74049038@2015cpp[00m:[01;34m~[00m$ git clonehttps://github.com/HermesYoung/lab1.githttps://github.com/HermesYoung/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kt https://github.com/HermesYoung/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74049038@2015cpp: ~[01;32mF74049038@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月02日 (週三) 16時16分21秒
